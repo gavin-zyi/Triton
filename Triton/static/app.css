@@ -1,0 +1,32 @@
+﻿body {
+	padding-top: 100px; 
+	padding-bottom: 100px; 
+}
+
+#playBar > .navbar-header {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+#playBar > .navbar-header {
+	text-align: center;
+}
+
+#playControls span.glyphicon {
+    font-size: 32px;
+}
+
+.table-hover tbody tr:hover > td {
+  cursor: pointer
+}
+
+.table {
+  table-layout:fixed;
+}
+
+.table td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

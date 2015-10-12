@@ -1,0 +1,18 @@
+C:\Users\Gavin\AppData\Local\Temporary Projects\Triton\bin\Triton.dll.config
+C:\Users\Gavin\AppData\Local\Temporary Projects\Triton\bin\Triton.dll
+C:\Users\Gavin\AppData\Local\Temporary Projects\Triton\bin\Triton.pdb
+C:\Users\Gavin\AppData\Local\Temporary Projects\Triton\obj\Debug\Triton.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\AppData\Local\Temporary Projects\Triton\obj\Debug\Triton.dll
+C:\Users\Gavin\AppData\Local\Temporary Projects\Triton\obj\Debug\Triton.pdb
+L:\Apps\Triton\Triton\bin\Triton.dll.config
+L:\Apps\Triton\Triton\bin\Triton.dll
+L:\Apps\Triton\Triton\bin\Triton.pdb
+L:\Apps\Triton\Triton\obj\Debug\Triton.csprojResolveAssemblyReference.cache
+L:\Apps\Triton\Triton\obj\Debug\Triton.dll
+L:\Apps\Triton\Triton\obj\Debug\Triton.pdb
+C:\Users\Gavin\Desktop\Triton\Triton\bin\Triton.dll.config
+C:\Users\Gavin\Desktop\Triton\Triton\bin\Triton.dll
+C:\Users\Gavin\Desktop\Triton\Triton\bin\Triton.pdb
+C:\Users\Gavin\Desktop\Triton\Triton\obj\Debug\Triton.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\Triton\Triton\obj\Debug\Triton.dll
+C:\Users\Gavin\Desktop\Triton\Triton\obj\Debug\Triton.pdb

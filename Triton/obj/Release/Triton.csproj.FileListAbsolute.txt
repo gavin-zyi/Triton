@@ -1,0 +1,5 @@
+L:\Apps\Triton\Triton\bin\Triton.dll.config
+L:\Apps\Triton\Triton\bin\Triton.dll
+L:\Apps\Triton\Triton\bin\Triton.pdb
+L:\Apps\Triton\Triton\obj\Release\Triton.dll
+L:\Apps\Triton\Triton\obj\Release\Triton.pdb
